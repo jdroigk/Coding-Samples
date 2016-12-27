@@ -1,0 +1,2 @@
+// from the start of the line find all characters up until abc
+^.+?(?=abc)
